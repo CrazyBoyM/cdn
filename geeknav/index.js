@@ -27,7 +27,7 @@ document.writeln("    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/g
 document.writeln("	<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css3/demo2.css\" />");
 document.writeln("	<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css3/component2.css\" />");
 document.writeln("	<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css3/organicfoodicons2.css\" />");
-document.writeln("    <link href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css3/style.css\" rel=\"stylesheet\">");
+document.writeln("    <link href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css3/styles.css\" rel=\"stylesheet\">");
 document.writeln(" <!--    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css/search.css\">-->");
 document.writeln("	<!-- demo styles -->");
 document.writeln("	<!--<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css/demo.css\" />-->");
