@@ -19,6 +19,9 @@
 		color: #333;
 		font-weight: bold;
 	}
+	.fa{
+	    margin: 10px;
+	}
 	.s-type-list label:hover,
 	.menu__link:hover,
 	.menu__link[data-submenu]:hover::after,
