@@ -161,6 +161,32 @@
 //       }
 //     })
 	//opengeek();
+		function tip(s,id,t,p){
+		return i=layer.tips(s, "#"+id, {tips:[p,"rgba(0,0,0,0.5)"],time:t,zindex:99999999999});
+	}
+	function tipx(i){
+		layer.close(i);
+	}
+	 var bgx=0,bgcolor;
+        function bg(){
+        	var img=new Image();
+        	img.src="img/chrome.png";
+        	img.onload = function(){
+	        	$(".container").css({background:"rgba(1,1,1,.3)"});
+	    		bgcolor=$("body").css("background");
+	    		$("body").css({"background":'url(\"'+img.src+'\")',"background-size":"100%","background-repeat":"no-repeat","background-size":"cover"});
+	    		$(".search-type li label").css({color:"rgba(255,255,255,.7)"});
+	    		$("p").css({color:"rgba(255,255,255,.6)"});
+	    		bgx++;
+        	}
+        }
+      $(document).ready(function(){
+      bg();
+      console.log("Hi,welcome to use geeknav");
+      console.log("This site is open source on github,https://github.com/CrazyBoyM/geeknav");
+          }
+      );
+	
 	
 	 $(document).bind("contextmenu", function () { return false; });//禁止右键
 		        document.oncontextmenu = function () { return false; };
