@@ -6,7 +6,7 @@
 			ongeek = false;
 			}
 	}
-	var html="<center><img style='height: 110px;width: 110px;padding-top:6px;' src='img/qr.jpg'></center><center>极客导航  第五代</center><center><strong>- 超轻快，无痕迹 -</strong></center><center>Ctrl + D 收藏 </center><center>版权所有,抄袭必究</center>";
+	var html="<center><img style='height: 110px;width: 110px;padding-top:6px;' src='https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/img/qr.jpg'></center><center>极客导航  第五代</center><center><strong>- 超轻快，无痕迹 -</strong></center><center>Ctrl + D 收藏 </center><center>版权所有,抄袭必究</center>";
 	function qrcode(){
 		tip(html,'about',17000,3);
 	}
@@ -170,7 +170,7 @@
 	 var bgx=0,bgcolor;
         function bg(){
         	var img=new Image();
-        	img.src="https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn@latest/geeknav/img/chrome.png";
+        	img.src="https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/img/chrome.png";
         	img.onload = function(){
 	        	$(".container").css({background:"rgba(1,1,1,.3)"});
 	    		bgcolor=$("body").css("background");
