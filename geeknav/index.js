@@ -10,7 +10,11 @@ document.writeln("    <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">"
 document.writeln("    <meta name=\"author\" content=\"geeknav\">");
 document.writeln("    <meta name=\"keywords\" content=\"GeekNav,极客喵,geeknav,极客导航,极客俱乐部,程序员导航,在线工具导航,设计素材,人工智能,noip,csp,noi,acm\">");
 document.writeln("    <meta name=\"description\" content=\"极客导航是一个公益性平台\">");
+<<<<<<< HEAD
 document.writeln("    <meta property=\"og:image\" content=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn@latest/geeknav/img/logo@2x.png\">");
+=======
+document.writeln("    <meta property=\"og:image\" content=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/img/logo@2x.png\">");
+>>>>>>> ca5fbd6bb5190125101e25e77b4114a8a6d215ce
 document.writeln("    <meta property=\"og:type\" content=\"website\">");
 document.writeln("    <meta property=\"og:url\" content=\"https://open985.com\">");
 document.writeln("    <meta property=\"og:title\" content=\"GeekNav\">");
@@ -21,6 +25,7 @@ document.writeln("    <meta name=\"twitter:title\" content=\"GeekNav\">");
 document.writeln("    <meta name=\"twitter:description\" content=\"极客导航是一个公益性平台\">");
 document.writeln("    <meta name=\"baidu-site-verification\" content=\"xihr4MAXCX\" />");
 document.writeln("	<meta name=\"theme-color\" content=\"RGB(254,50,87)\">");
+<<<<<<< HEAD
 document.writeln("    <link rel=\"shortcut icon\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn@latest/geeknav/search.svg\">");
 document.writeln("    <link href=\"https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css\" rel=\"stylesheet\">");
 document.writeln("    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn@latest/geeknav/css3/search2.css\">");
@@ -35,6 +40,22 @@ document.writeln("	<!-- menu styles -->");
 document.writeln("	<!--<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn@latest/geeknav/css/component.css\" />-->");
 document.writeln("	<!-- icons -->");
 document.writeln("	<!--<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn@latest/geeknav/css/organicfoodicons.css\" />-->");
+=======
+document.writeln("    <link rel=\"shortcut icon\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/search.svg\">");
+document.writeln("    <link href=\"https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css\" rel=\"stylesheet\">");
+document.writeln("    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css3/search2.css\">");
+document.writeln("	<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css3/demo2.css\" />");
+document.writeln("	<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css3/component2.css\" />");
+document.writeln("	<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css3/organicfoodicons2.css\" />");
+document.writeln("    <link href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css3/styles.css\" rel=\"stylesheet\">");
+document.writeln(" <!--    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css/search.css\">-->");
+document.writeln("	<!-- demo styles -->");
+document.writeln("	<!--<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css/demo.css\" />-->");
+document.writeln("	<!-- menu styles -->");
+document.writeln("	<!--<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css/component.css\" />-->");
+document.writeln("	<!-- icons -->");
+document.writeln("	<!--<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/css/organicfoodicons.css\" />-->");
+>>>>>>> ca5fbd6bb5190125101e25e77b4114a8a6d215ce
 document.writeln("</head>");
 document.writeln("  <body ondblclick=\"bg()\">");
 document.writeln("        <button class=\"action action--open\" aria-label=\"Open Menu\"><span class=\"icon icon--menu\"></span></button>");
@@ -140,7 +161,11 @@ document.writeln("	 		 		 		</nav>");
 document.writeln("        <div id=\"content\" class=\"container\">");
 document.writeln("		<header id=\"geekheader\" class=\"bp-header cf\">");
 document.writeln("			<div class=\"dummy-logo\" id=\"geeklogo\">");
+<<<<<<< HEAD
 document.writeln("				<img id=\"geeknav\" onclick=\"window.open(\'https://tongji.baidu.com/web/welcome/ico?s=0815ca0ab4a5299677d0f428b281ffa1\', \'_blank\')\" src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn@latest/geeknav/img/logo.png\" width=\"288px\" height=\"87px\"/>");
+=======
+document.writeln("				<img id=\"geeknav\" onclick=\"window.open(\'https://tongji.baidu.com/web/welcome/ico?s=0815ca0ab4a5299677d0f428b281ffa1\', \'_blank\')\" src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/img/logo.png\" width=\"288px\" height=\"87px\"/>");
+>>>>>>> ca5fbd6bb5190125101e25e77b4114a8a6d215ce
 document.writeln("			<!--onmouseover=\"tip(\'极客导航是一个公益性平台\',\'geeknav\',18000,2)\" onmouseout=\"tipx(i)\"-->");
 document.writeln("			</div>");
 document.writeln("			<div id=\"gk\" class=\"action action--open2\" aria-label=\"Open Menu\" onclick=\"opengeek()\"><span class=\"icon icon--menu\"></span></div>");
@@ -155,11 +180,19 @@ document.writeln("					<!--极客导航,官方开源地址:http://github.com/Cra
 document.writeln("					<!--代码使用者不得删除本声明相关内容,请自重-->");
 document.writeln("				</nav>");
 document.writeln("			</div>");
+<<<<<<< HEAD
 document.writeln("		</header>"); 
 document.writeln("    <div class=\"main-content\">");
 document.writeln("    	<h1 id=\"geektitle\" class=\"mediatitle\" onclick=\"back()\">极客导航</h1>");
 document.writeln("    	<div id=\"geek\" class=\"content\">");
 document.writeln("		<script type=\"text/javascript\" id=\"searchjs\" src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn@latest/geeknav/js/search.js\"></script>");
+=======
+document.writeln("		</header>");
+document.writeln("    <div class=\"main-content\">");
+document.writeln("    	<h1 id=\"geektitle\" class=\"mediatitle\" onclick=\"back()\">极客导航</h1>");
+document.writeln("    	<div id=\"geek\" class=\"content\">");
+document.writeln("		<script type=\"text/javascript\" id=\"searchjs\" src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/js/search.js\"></script>");
+>>>>>>> ca5fbd6bb5190125101e25e77b4114a8a6d215ce
 document.writeln("		<div class=\"geektext\">");
 document.writeln("		<button id=\"geekbutton\" onclick=\"opengeek()\" class=\"geekbutton\">显示全部隐层</button>");
 document.writeln("		<br>");
@@ -175,11 +208,19 @@ document.writeln("</div>");
 document.writeln("	<script src=\"https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js\" integrity=\"sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=\" crossorigin=\"anonymous\"></script>");
 document.writeln("	<script src=\"https://cdn.jsdelivr.net/npm/layui-layer@1.0.9/dist/layer.js\"></script>");
 document.writeln("	<script src=\"https://cdn.jsdelivr.net/npm/blueimp-md5@2.12.0/js/md5.min.js\"></script>");
+<<<<<<< HEAD
 document.writeln("    <script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn@latest/geeknav/data.js\"></script>");
 document.writeln("	<script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn@latest/geeknav/js/modernizr-custom.js\"></script>");
 document.writeln("	<script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn@latest/geeknav/js/classie.js\"></script>");
 document.writeln("	<script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn@latest/geeknav/js/main.js\"></script>");
 document.writeln("    <script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn@latest/geeknav/js/geeks.js\"></script>");
+=======
+document.writeln("    <script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/data.js\"></script>");
+document.writeln("	<script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/js/modernizr-custom.js\"></script>");
+document.writeln("	<script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/js/classie.js\"></script>");
+document.writeln("	<script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/js/main.js\"></script>");
+document.writeln("    <script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/js/geeks.js\"></script>");
+>>>>>>> ca5fbd6bb5190125101e25e77b4114a8a6d215ce
 document.writeln("</body>");
 document.writeln("</html>");
 document.writeln("");
