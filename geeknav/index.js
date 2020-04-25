@@ -172,15 +172,14 @@ document.writeln("		<div id=\"geek2\" class=\"content2\" style=\"display:none;\"
 document.writeln("		</div>");
 document.writeln("	</div>");
 document.writeln("</div>");
-document.writeln("    ");
 document.writeln("	<script src=\"https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js\" integrity=\"sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=\" crossorigin=\"anonymous\"></script>");
 document.writeln("	<script src=\"https://cdn.jsdelivr.net/npm/layui-layer@1.0.9/dist/layer.js\"></script>");
 document.writeln("	<script src=\"https://cdn.jsdelivr.net/npm/blueimp-md5@2.12.0/js/md5.min.js\"></script>");
 document.writeln("    <script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/data.js\"></script>");
-document.writeln("    <script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/js/geek.js\"></script>");
 document.writeln("	<script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/js/modernizr-custom.js\"></script>");
 document.writeln("	<script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/js/classie.js\"></script>");
 document.writeln("	<script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/js/main.js\"></script>");
+document.writeln("    <script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/js/geek.js\"></script>");
 document.writeln("</body>");
 document.writeln("</html>");
 document.writeln("");

@@ -161,7 +161,7 @@
 //       }
 //     })
 	//opengeek();
-		function tip(s,id,t,p){
+	function tip(s,id,t,p){
 		return i=layer.tips(s, "#"+id, {tips:[p,"rgba(0,0,0,0.5)"],time:t,zindex:99999999999});
 	}
 	function tipx(i){
@@ -170,7 +170,7 @@
 	 var bgx=0,bgcolor;
         function bg(){
         	var img=new Image();
-        	img.src="img/chrome.png";
+        	img.src="https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn@latest/geeknav/img/chrome.png";
         	img.onload = function(){
 	        	$(".container").css({background:"rgba(1,1,1,.3)"});
 	    		bgcolor=$("body").css("background");
