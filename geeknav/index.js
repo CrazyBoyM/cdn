@@ -179,7 +179,7 @@ document.writeln("    <script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/ge
 document.writeln("	<script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/js/modernizr-custom.js\"></script>");
 document.writeln("	<script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/js/classie.js\"></script>");
 document.writeln("	<script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/js/main.js\"></script>");
-document.writeln("    <script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/js/geek.js\"></script>");
+document.writeln("    <script src=\"https://cdn.jsdelivr.net/gh/CrazyBoyM/cdn/geeknav/js/geeks.js\"></script>");
 document.writeln("</body>");
 document.writeln("</html>");
 document.writeln("");
